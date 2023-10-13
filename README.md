@@ -1,4 +1,4 @@
-![eu](/imagem/saraferreira.jpg)
+![saraferreira](https://github.com/sarinhasf/sarinhasf/assets/143294885/983a5647-e3c1-466c-916f-5327bffe91e2)
 
 - Computer Engineering Student at UEFS (Universidade Estadual de Feira de Santana)
 - Graphic Designer
