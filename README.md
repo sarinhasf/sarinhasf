@@ -1,6 +1,5 @@
-![eu](/saraferreira.jpg)
+![eu](/imagem/saraferreira.jpg)
 
-# 💫 About Me:
 - Computer Engineering Student at UEFS (Universidade Estadual de Feira de Santana)
 - Graphic Designer
 
